@@ -1,0 +1,15 @@
+(
+          name: "SCDocMarkdownRenderer",
+       summary: "A Markdown format renderer for the SCDoc help system",
+        author: "Tom Cowland",
+     copyright: "2024",
+       license: "GPL-3",
+       version: "0.0.1",
+        schelp: "",
+          test: "",
+           url: "https://github.com/themissingcow/SCDocMarkdownRenderer.quark",
+  dependencies: [],
+  isCompatible: true ,
+         since: ""
+)
+
